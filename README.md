@@ -92,30 +92,48 @@
 <br>
 <div align='left'>
 
-<ul>
 
-<li>
+
+
 <a href="https://www.linkedin.com/in/oussema-trabelsi-661784199/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Oussema Trabelsi-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-</li>
+
 
 <br>
+<br>
+<br>
 
-<li>
 <a href="https://www.facebook.com/ous3ma/" target="_blank">
 <img src="https://img.shields.io/badge/facebook:  Oussema Trabelsi-%2300acee.svg?color=3b5998&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook style="margin-bottom: 5px;"/>
 </a>
-</li>
+
 
 <br>
+<br>
+	<br>
 
-<li>
 <a href="mailto:oussema99trabelsi@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Oussema Trabelsi-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-</li>
-	
-</ul>
-</div>
 
+	
+<br>
+	<br>
+</div>
+<div>
+<br>
+	<br>
+	<br>
+	<div align='center'>
+🔴⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫<br>
+🔴🔴⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫<br>
+🔴🔴🔴⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫<br>
+🔴🔴🔴🔴⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪<br>
+🔴🔴🔴🔴🔴⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪<br>
+🔴🔴🔴🔴⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪<br>
+🔴🔴🔴🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢<br>
+🔴🔴🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢<br>
+🔴🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢<br>
+	</div>
+</div>
