@@ -14,7 +14,7 @@
 - A passionate developer
 - Playing League of Legends at spare time
 - Currently studying data science at ENET'Com
-- My [portfolio](https://aws3ma.github.io)
+- My <a href="https://aws3ma.github.io" target="_blank"> portfolio </a>
 
 <br><br>
 
