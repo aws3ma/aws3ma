@@ -14,7 +14,7 @@
 - A passionate developer
 - Playing League of Legends at spare time
 - Currently studying data science at ENET'Com
-- My <a href="https://aws3ma.github.io" target="_blank"> portfolio </a>
+- My <a href="https://aws3ma.github.io" target="_blank">portfolio</a>
 
 <br><br>
 
@@ -72,7 +72,7 @@
 
 <div align="center">
 
-<a href="https://github.com/aws3ma">
+<a href="https://github.com/aws3ma" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api?username=aws3ma&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aws3ma&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="aws3ma"/>
 
